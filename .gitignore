@@ -1,0 +1,14 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/HomeTask5/obj/Debug
+/HomeTask5/bin/Debug
+/.vs/MyIoC
+/.vs/MyIoC
+/IoCSamples/obj/Debug
+/IoCSamples/bin/Debug
+/IoCSamples/obj/Debug
+/IoCSamples/bin/Debug
+/MyIoC/obj/Debug
+/MyIoC/bin/Debug
